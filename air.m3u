@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,Первый канал
+#EXTINF:-1 ,РџРµСЂРІС‹Р№ РєР°РЅР°Р»
 http://172.16.137.1:8180/stream?ip=224.1.0.2&port=1234
-#EXTINF:-1,Звезда
+#EXTINF:-1,Р—РІРµР·РґР°
 http://172.16.137.1:8180/stream?ip=224.1.0.4&port=1234
-#EXTINF:-1 ,НТВ
+#EXTINF:-1 ,РќРўР’
 http://172.16.137.1:8180/stream?ip=224.1.0.5&port=1234
 #EXTINF:-1,RUTV
 http://172.16.137.1:8180/stream?ip=224.1.0.6&port=1234
@@ -11,21 +11,21 @@ http://172.16.137.1:8180/stream?ip=224.1.0.6&port=1234
 http://172.16.137.1:8180/stream?ip=224.1.0.7&port=1234
 #EXTINF:-1 ,Channel 6
 http://172.16.137.1:8180/stream?ip=224.1.0.8&port=1234
-#EXTINF:-1 ,Москва-24
+#EXTINF:-1 ,РњРѕСЃРєРІР°-24
 http://172.16.137.1:8180/stream?ip=224.1.0.9&port=1234
-#EXTINF:-1 ,МУЗ-ТВ
+#EXTINF:-1 ,РњРЈР—-РўР’
 http://172.16.137.1:8180/stream?ip=224.1.0.10&port=1234
 #EXTINF:-1 ,Channel 9
 http://172.16.137.1:8180/stream?ip=224.1.0.11&port=1234
-#EXTINF:-1 ,ТНТ
+#EXTINF:-1 ,РўРќРў
 http://172.16.137.1:8180/stream?ip=224.1.0.1&port=1234
-#EXTINF:-1,ТВ3
+#EXTINF:-1,РўР’3
 http://172.16.137.1:8180/stream?ip=224.1.0.15&port=1234
-#EXTINF:-1,Пятница
+#EXTINF:-1,РџСЏС‚РЅРёС†Р°
 http://172.16.137.1:8180/stream?ip=224.1.0.16&port=1234
-#EXTINF:-1,2Х2
+#EXTINF:-1,2РҐ2
 http://172.16.137.1:8180/stream?ip=224.1.0.17&port=1234
-#EXTINF:-1,Москва Доверие
+#EXTINF:-1,РњРѕСЃРєРІР° Р”РѕРІРµСЂРёРµ
 http://172.16.137.1:8180/stream?ip=224.1.0.14&port=1234
 #EXTINF:-1,Uzreport_TV
 http://172.16.137.1:8180/stream?ip=224.1.0.20&port=1234
@@ -47,9 +47,9 @@ http://172.16.137.1:8180/stream?ip=224.1.0.25&port=1234
 http://172.16.137.1:8180/stream?ip=224.1.0.26&port=1234
 #EXTINF:-1,Kinoteatr
 http://172.16.137.1:8180/stream?ip=224.1.0.27&port=1234
-#EXTINF:-1,Love радио
+#EXTINF:-1,Love СЂР°РґРёРѕ
 http://172.16.137.1:8180/stream?ip=224.1.0.12&port=1234
-#EXTINF:-1,Радио Дача
+#EXTINF:-1,Р Р°РґРёРѕ Р”Р°С‡Р°
 http://172.16.137.1:8180/stream?ip=224.1.0.13&port=1234
 #EXTINF:-1 ,Airport
 http://172.16.137.1:8180/stream?ip=224.1.0.3&port=1234
