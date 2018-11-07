@@ -1,147 +1,277 @@
 ﻿#EXTM3U
-#EXTINF:0,ПЕРВЫЙ КАНАЛ
-http://185.74.4.193/live/ort.smil/chunklist_w1126007431_b2400000_DVR_sleng.m3u8
-#EXTINF:0,РОССИЯ 1
-http://185.74.4.193/live/abr_stream.smil/chunklist_w547292529_b2400000_DVR_sleng.m3u8
-#EXTINF:0,РОССИЯ РТР
-http://185.74.5.25/live/rossiyartr.smil/chunklist_w703898507_b2400000_DVR_sleng.m3u8
-#EXTINF:0,РОССИЯ 24
-http://185.74.4.193/live/r24.smil/chunklist_w1989548349_b2400000_DVR_sleng.m3u8
-#EXTINF:0,НТВ
-http://185.74.4.193/live/ntv.smil/chunklist_w856196445_b2400000_DVR_sleng.m3u8
-#EXTINF:0,ТВ 3
-http://185.74.4.115/live/tv3.smil/chunklist_w1863291089_b2400000_DVR_sleng.m3u8
-#EXTINF:0,ТВЦ
-http://185.74.4.149/live/tvc.smil/chunklist_w1014038541_b2400000_sleng.m3u8
-#EXTINF:0,ЗВЕЗДА
-http://185.74.4.149/live/zvezda.smil/chunklist_w1438457163_b2400000_sleng.m3u8
-#EXTINF:0,КИНОХИТ
-http://185.74.5.24/live/kinohit.smil/chunklist_w1477381587_b2400000_DVR_sleng.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА
-http://185.74.5.25/live/premera.smil/chunklist_w50193829_b2400000_sleng.m3u8
-#EXTINF:0,КИНОПОКАЗ
-http://185.74.5.24/live/kinopokaz.smil/chunklist_w1341336254_b2400000_DVR_sleng.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
-http://185.74.5.25/live/svidanie.smil/chunklist_w2006365750_b2400000_sleng.m3u8
-#EXTINF:0,РОДНОЕ КИНО
-http://185.74.4.193/live/nashekino.smil/chunklist_w566998689_b2400000_DVR_sleng.m3u8
-#EXTINF:0,НАШЕ НОВОЕ КИНО
-http://185.74.5.25/live/novoekino.smil/chunklist_w763793183_b2400000_sleng.m3u8
-#EXTINF:0,ИНДИЙСКОЕ КИНО
-http://185.74.4.149/live/india.smil/chunklist_w747491158_b2400000_sleng.m3u8
-#EXTINF:0,TV1000 РУССКОЕ КИНО
-http://185.74.4.115/live/tv1000ru.smil/chunklist_w1492339428_b2400000_DVR_sleng.m3u8
-#EXTINF:0,TV 1000
-http://185.74.4.115/live/tv1000.smil/chunklist_w1444998246_b2400000_DVR_sleng.m3u8
-#EXTINF:0,ДОМ КИНО
-http://185.74.4.149/live/domkino.smil/chunklist_w1739767601_b2400000_sleng.m3u8
-#EXTINF:0,РЕТРО
-http://185.74.5.25/live/enc54.smil/chunklist_w125685434_b2400000_sleng.m3u8
-#EXTINF:0,ТЕЛЕКАФЕ
-http://185.74.4.115/live/telecafe.smil/chunklist_w1588618561_b2400000_DVR_sleng.m3u8
-#EXTINF:0,DISCOVERY SCIENCE
-http://185.74.5.24/live/ds.smil/chunklist_w1952656583_b2400000_DVR_sleng.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-http://185.74.5.24/live/dc.smil/chunklist_w1101611443_b2400000_DVR_sleng.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://185.74.4.193/live/ng.smil/chunklist_w175855048_b2400000_DVR_sleng.m3u8
-#EXTINF:0,NAT GEO WILD
-http://185.74.4.193/live/ngw.smil/chunklist_w1105891165_b2400000_DVR_sleng.m3u8
-#EXTINF:0,ANIMAL PLANET
-http://185.74.4.149/live/animal.smil/chunklist_w344711701_b2400000_sleng.m3u8
-#EXTINF:0,VIASAT EXPLORE
-http://185.74.4.115/live/vs.smil/chunklist_w362697518_b2400000_DVR_sleng.m3u8
-#EXTINF:0,VIASAT HISTORY
-http://185.74.4.115/live/vh.smil/chunklist_w1756841652_b2400000_DVR_sleng.m3u8
-#EXTINF:0,ОХОТА И РЫБАЛКА
-http://185.74.4.193/live/ohota.smil/chunklist_w1295183785_b2400000_DVR_sleng.m3u8
-#EXTINF:0,КЛУБ ПУТЕШЕСТВИЙ
-http://185.74.4.193/live/klubput.smil/chunklist_w761004978_b2400000_DVR_sleng.m3u8
-#EXTINF:0,АВТО ПЛЮС
-http://185.74.5.25/live/autoplus.smil/chunklist_w1822760473_b2400000_sleng.m3u8
-#EXTINF:0,24 ТЕХНО
-http://185.74.5.24/live/24texno.smil/chunklist_w1614365279_b2400000_DVR_sleng.m3u8
-#EXTINF:0,МАТЧ! ТВ
-http://185.74.4.115/live/matchtv.smil/chunklist_w1839114022_b2400000_DVR_sleng.m3u8
-#EXTINF:0,МАТЧ! АРЕНА
-http://185.74.5.24/live/arena.smil/chunklist_w724608125_b2400000_DVR_sleng.m3u8
-#EXTINF:0,МАТЧ! ИГРА
-http://185.74.5.24/live/igra.smil/chunklist_w1282830888_b2400000_DVR_sleng.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 1
-http://185.74.5.24/live/futbol1.smil/chunklist_w664268187_b2400000_DVR_sleng.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 2
-http://185.74.4.115/live/futbol2.smil/chunklist_w269807311_b2400000_DVR_sleng.m3u8
-#EXTINF:0,EUROSPORT 1
-http://185.74.4.115/live/eurosport1.smil/chunklist_w922797146_b2400000_DVR_sleng.m3u8
-#EXTINF:0,EUROSPORT 2
-http://185.74.5.25/live/eurosport.smil/chunklist_w1968816535_b2400000_sleng.m3u8
-#EXTINF:0,EURONEWS
-http://185.74.4.115/live/svidanie.smil/chunklist_w1514476592_b2400000_DVR_sleng.m3u8
-#EXTINF:0,РОССИЯ КУЛЬТУРА
-http://185.74.5.25/live/rossiyartr.smil/chunklist_w703898507_b2400000_DVR_sleng.m3u8
-#EXTINF:0,МУЗЫКА ПЕРВОГО
-http://185.74.4.193/live/muzika.smil/chunklist_w1035736421_b2400000_DVR_sleng.m3u8
-#EXTINF:0,РУ ТВ
-http://185.74.5.25/live/rutv.smil/chunklist_w649541947_b2400000_sleng.m3u8
-#EXTINF:0,МУЗ ТВ
-http://185.74.4.149/live/muztv.smil/chunklist_w184591248_b2400000_sleng.m3u8
-#EXTINF:0,DISNEY
-http://185.74.5.24/live/disney.smil/chunklist_w202875933_b2400000_DVR_sleng.m3u8
-#EXTINF:0,ДЕТСКИЙ МИР
-http://185.74.5.25/live/dmir.smil/chunklist_w1693849322_b2400000_sleng.m3u8
-#EXTINF:0,КАРУСЕЛЬ
-http://185.74.5.25/live/karusel.smil/chunklist_w718687744_b2400000_sleng.m3u8
-#EXTINF:0,Bolajon
-http://185.74.4.115/live/bolajon.smil/chunklist_w1957227604_b2400000_DVR_sleng.m3u8
-#EXTINF:0,O'ZBEKISTON
-http://185.74.4.149/live/abr_stream.smil/chunklist_w1678780367_b2400000_sleng.m3u8
-#EXTINF:0,YOSHLAR
-http://185.74.4.149/live/yoshlar.smil/chunklist_w1731405316_b2400000_sleng.m3u8
-#EXTINF:0,SPORT_uz
-http://185.74.4.149/live/sportuz.smil/chunklist_w468420974_b2400000_sleng.m3u8
-#EXTINF:0,NAVO
-http://185.74.4.149/live/navo.smil/chunklist_w968530381_b2400000_sleng.m3u8
-#EXTINF:0,DUNYO BO’YLAB
-http://185.74.4.149/live/dunyo.smil/chunklist_w1917423929_b2400000_sleng.m3u8
-#EXTINF:0,MADANIYAT VA MA’RIFAT
-http://185.74.4.149/live/manaviat.smil/chunklist_w1050533398_b2400000_sleng.m3u8
-#EXTINF:0,MAHALLA
-http://185.74.4.149/live/mahhalya.smil/chunklist_w1997979388_b2400000_DVR_sleng.m3u8
-#EXTINF:0,KINOTEATR
-http://185.74.4.149/live/kinoteatruz.smil/chunklist_w1776623629_b2400000_sleng.m3u8
-#EXTINF:0,OILAVIY
-http://185.74.4.149/live/oilavi.smil/chunklist_w877502072_b2400000_sleng.m3u8
-#EXTINF:0,O'ZBEKISTON 24
-http://185.74.5.24/live/diyor.smil/chunklist_w625028281_b2400000_DVR_sleng.m3u8
-#EXTINF:0,MILLIY TV
-http://185.74.5.25/live/millitv.smil/chunklist_w1830658915_b2400000_sleng.m3u8
-#EXTINF:0,UZPEPORT
-http://185.74.4.115/live/uzreport.smil/chunklist_w1266110209_b2400000_DVR_sleng.m3u8
-#EXTINF:0,MY 5
-http://185.74.5.25/live/my5.smil/chunklist_w807189919_b2400000_sleng.m3u8
-#EXTINF:0,ZO'R TV
-http://185.74.5.25/live/ngrp:zortv.stream_all/chunklist_w1911365712_b936000.m3u8
-#EXTINF:0,SEVIMLI
-http://185.74.5.24/live/caravantv.smil/chunklist_w674948211_b2400000_DVR_sleng.m3u8
-#EXTINF:0,FUTBOL TV
-http://185.74.5.25/live/futboltv.smil/chunklist_w1117147777_b2400000_sleng.m3u8
-#EXTINF:0,Toshkent
-http://185.74.4.115/live/toshkent.smil/chunklist_w1691226550_b2400000_DVR_sleng.m3u8
-#EXTINF:0,Fashion TV
-http://185.74.4.115/live/fashiontv.smil/chunklist_w1990178355_b2400000_DVR_sleng.m3u8
-#EXTINF:0,Первый HD
-http://185.74.5.38/live/ORTHD.stream_720p/chunklist_w385484376_DVR.m3u8
-#EXTINF:0,Матч! HD
-http://185.74.5.38/live/matchtvHD.stream_720p/chunklist_w1047258412_DVR.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-http://185.74.5.38/live/futbolHD.stream_720p/chunklist_w1352825350_DVR.m3u8
+#EXTINF:0,Pervyj kanal_576p
+https://185.74.4.193/live/ort.smil/chunklist_w1126007431_b2900000_DVR_sleng.m3u8
+#EXTINF:0,ROSSIA 1_576p
+https://185.74.4.193/live/abr_stream.smil/chunklist_w547292529_b2400000_DVR_sleng.m3u8
+#EXTINF:0,RTR_576p
+https://185.74.5.25/live/rossiyartr.smil/chunklist_w703898507_b2400000_DVR_sleng.m3u8
+#EXTINF:0,ROSSIA 24_576p
+https://185.74.4.193/live/r24.smil/chunklist_w1989548349_b2400000_DVR_sleng.m3u8
+#EXTINF:0,NTV_576p
+https://185.74.4.193/live/ntv.smil/chunklist_w856196445_b2400000_DVR_sleng.m3u8
+#EXTINF:0,TV 3_576p
+https://185.74.4.115/live/tv3.smil/chunklist_w1863291089_b2400000_DVR_sleng.m3u8
+#EXTINF:0,TVC_576p
+https://185.74.4.149/live/tvc.smil/chunklist_w1014038541_b2400000_sleng.m3u8
+#EXTINF:0,ZVEZDA_576p
+https://185.74.4.149/live/zvezda.smil/chunklist_w1438457163_b2400000_sleng.m3u8
+#EXTINF:0,KINOHIT_576p
+https://185.74.5.24/live/kinohit.smil/chunklist_w1477381587_b2400000_DVR_sleng.m3u8
+#EXTINF:0,KINOPRIMIERA_576p
+https://185.74.5.25/live/premera.smil/chunklist_w50193829_b2400000_sleng.m3u8
+#EXTINF:0,KINOPOKAZ_576p
+https://185.74.5.24/live/kinopokaz.smil/chunklist_w1341336254_b2400000_DVR_sleng.m3u8
+#EXTINF:0,KINOSVIDANIE_576p
+https://185.74.5.25/live/svidanie.smil/chunklist_w2006365750_b2400000_sleng.m3u8
+#EXTINF:0,RODNOE KINO_576p
+https://185.74.4.193/live/nashekino.smil/chunklist_w566998689_b2400000_DVR_sleng.m3u8
+#EXTINF:0,NASHE KINO_576p
+https://185.74.5.25/live/novoekino.smil/chunklist_w763793183_b2400000_sleng.m3u8
+#EXTINF:0,INDYA_576p
+https://185.74.4.149/live/india.smil/chunklist_w747491158_b2400000_sleng.m3u8
+#EXTINF:0,TV 1000 russkoe kino_576p
+https://185.74.4.115/live/tv1000ru.smil/chunklist_w1492339428_b2400000_DVR_sleng.m3u8
+#EXTINF:0,TV 1000_576p
+https://185.74.4.115/live/tv1000.smil/chunklist_w1444998246_b2400000_DVR_sleng.m3u8
+#EXTINF:0,DOM KINO_576p
+https://185.74.4.149/live/domkino.smil/chunklist_w1739767601_b2400000_sleng.m3u8
+#EXTINF:0,RETRO_576p
+https://185.74.5.25/live/enc54.smil/chunklist_w125685434_b2400000_sleng.m3u8
+#EXTINF:0,TELEKAFE_576p
+https://185.74.4.115/live/telecafe.smil/chunklist_w1588618561_b2400000_DVR_sleng.m3u8
+#EXTINF:0,DISCOVERY SCIENCE_576p
+https://185.74.5.24/live/ds.smil/chunklist_w1952656583_b2400000_DVR_sleng.m3u8
+#EXTINF:0,DISCOVERY CHANNEL_576p
+https://185.74.5.24/live/dc.smil/chunklist_w1101611443_b2400000_DVR_sleng.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC_576p
+https://185.74.4.193/live/ng.smil/chunklist_w175855048_b2400000_DVR_sleng.m3u8
+#EXTINF:0,NAT GEO WILD_576p
+https://185.74.4.193/live/ngw.smil/chunklist_w1105891165_b2400000_DVR_sleng.m3u8
+#EXTINF:0,ANIMAL PLANET_576p
+https://185.74.4.149/live/animal.smil/chunklist_w344711701_b2400000_sleng.m3u8
+#EXTINF:0,VIASAT EXPLORE_576p
+https://185.74.4.115/live/vs.smil/chunklist_w362697518_b2400000_DVR_sleng.m3u8
+#EXTINF:0,VIASAT HISTORY_576p
+https://185.74.4.115/live/vh.smil/chunklist_w1756841652_b2400000_DVR_sleng.m3u8
+#EXTINF:0,OHOTA I RYBALKA_576p
+https://185.74.4.193/live/ohota.smil/chunklist_w1295183785_b2400000_DVR_sleng.m3u8
+#EXTINF:0,KLUB PUTESHESTVENNIKOV_576p
+https://185.74.4.193/live/klubput.smil/chunklist_w761004978_b2400000_DVR_sleng.m3u8
+#EXTINF:0,AVTO PLUS_576p
+https://185.74.5.25/live/autoplus.smil/chunklist_w1822760473_b2400000_sleng.m3u8
+#EXTINF:0,24 TEHNO_576p
+https://185.74.5.24/live/24texno.smil/chunklist_w1614365279_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MATCH TV_576p
+https://185.74.4.115/live/matchtv.smil/chunklist_w1839114022_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MATCH ARENA_576p
+https://185.74.5.24/live/arena.smil/chunklist_w724608125_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MATCH IGRA_576p
+https://185.74.5.24/live/igra.smil/chunklist_w1282830888_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MATCH FUTBOL 1_576p
+https://185.74.5.24/live/futbol1.smil/chunklist_w664268187_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MATCH FUTBOL 2_576p
+https://185.74.4.115/live/futbol2.smil/chunklist_w269807311_b2400000_DVR_sleng.m3u8
+#EXTINF:0,EUROSPORT 1_576p
+https://185.74.4.115/live/eurosport1.smil/chunklist_w922797146_b2400000_DVR_sleng.m3u8
+#EXTINF:0,EUROSPORT 2_576p
+https://185.74.5.25/live/eurosport.smil/chunklist_w1968816535_b2400000_sleng.m3u8
+#EXTINF:0,EURONEWS_576p
+https://185.74.4.115/live/svidanie.smil/chunklist_w1514476592_b2400000_DVR_sleng.m3u8
+#EXTINF:0,KULTURA_576p
+https://185.74.5.25/live/rossiyartr.smil/chunklist_w703898507_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MUZIKA PERVOGO_576p
+https://185.74.4.193/live/muzika.smil/chunklist_w1035736421_b2400000_DVR_sleng.m3u8
+#EXTINF:0,RU TV_576p
+https://185.74.5.25/live/rutv.smil/chunklist_w649541947_b3400000_sleng.m3u8
+#EXTINF:0,MUZ TV_576p
+https://185.74.4.149/live/muztv.smil/chunklist_w184591248_b2400000_sleng.m3u8
+#EXTINF:0,DISNEY_576p
+https://185.74.5.24/live/disney.smil/chunklist_w202875933_b2400000_DVR_sleng.m3u8
+#EXTINF:0,DETSKIY MIR_576p
+https://185.74.5.25/live/dmir.smil/chunklist_w1693849322_b2400000_sleng.m3u8
+#EXTINF:0,KARUSEL_576p
+https://185.74.5.25/live/karusel.smil/chunklist_w718687744_b2400000_sleng.m3u8
+#EXTINF:0,Bolajon_576p
+https://185.74.4.115/live/bolajon.smil/chunklist_w1957227604_b2400000_DVR_sleng.m3u8
+#EXTINF:0,O'ZBEKISTON_576p
+https://185.74.4.149/live/abr_stream.smil/chunklist_w1678780367_b2400000_sleng.m3u8
+#EXTINF:0,YOSHLAR_576p
+https://185.74.4.149/live/yoshlar.smil/chunklist_w1731405316_b2400000_sleng.m3u8
+#EXTINF:0,SPORT_uz_576p
+https://185.74.4.149/live/sportuz.smil/chunklist_w468420974_b2400000_sleng.m3u8
+#EXTINF:0,NAVO_576p
+https://185.74.4.149/live/navo.smil/chunklist_w968530381_b2400000_sleng.m3u8
+#EXTINF:0,DUNYO BO’YLAB_576p
+https://185.74.4.149/live/dunyo.smil/chunklist_w1917423929_b2400000_sleng.m3u8
+#EXTINF:0,MADANIYAT VA MA’RIFAT_576p
+https://185.74.4.149/live/manaviat.smil/chunklist_w1050533398_b2400000_sleng.m3u8
+#EXTINF:0,MAHALLA_576p
+https://185.74.4.149/live/mahhalya.smil/chunklist_w1997979388_b2400000_DVR_sleng.m3u8
+#EXTINF:0,KINOTEATR_576p
+https://185.74.4.149/live/kinoteatruz.smil/chunklist_w1776623629_b2400000_sleng.m3u8
+#EXTINF:0,OILAVIY_576p
+https://185.74.4.149/live/oilavi.smil/chunklist_w877502072_b2400000_sleng.m3u8
+#EXTINF:0,O'ZBEKISTON 24_576p
+https://185.74.5.24/live/diyor.smil/chunklist_w625028281_b2400000_DVR_sleng.m3u8
+#EXTINF:0,MILLIY TV_576p
+https://185.74.5.25/live/millitv.smil/chunklist_w1830658915_b2400000_sleng.m3u8
+#EXTINF:0,UZPEPORT_576p
+https://185.74.4.115/live/uzreport.smil/chunklist_w1266110209_b3400000_DVR_sleng.m3u8
+#EXTINF:0,MY 5_576p
+https://185.74.5.25/live/my5.smil/chunklist_w807189919_b2400000_sleng.m3u8
+#EXTINF:0,ZO'R TV_576p
+https://185.74.5.25/live/ngrp:zortv.stream_all/chunklist_w1911365712_b936000.m3u8
+#EXTINF:0,SEVIMLI_576p
+https://185.74.5.24/live/caravantv.smil/chunklist_w674948211_b2400000_DVR_sleng.m3u8
+#EXTINF:0,FUTBOL TV_576p
+https://185.74.5.25/live/futboltv.smil/chunklist_w1117147777_b2400000_sleng.m3u8
+#EXTINF:0,Toshkent_576p
+https://185.74.4.115/live/toshkent.smil/chunklist_w1691226550_b2400000_DVR_sleng.m3u8
+#EXTINF:0,Fashion TV576p
+https://185.74.4.115/live/fashiontv.smil/chunklist_w1990178355_b2400000_DVR_sleng.m3u8
+#EXTINF:0,PERVIY HD
+https://185.74.5.38/live/ORTHD.stream_720p/chunklist_w385484376_DVR.m3u8
+#EXTINF:0,MATCH HD
+https://185.74.5.38/live/matchtvHD.stream_720p/chunklist_w1047258412_DVR.m3u8
+#EXTINF:0,MATCH FUTBOL 1 HD
+https://185.74.5.38/live/futbolHD.stream_720p/chunklist_w1352825350_DVR.m3u8
 #EXTINF:0,Eurosport 1 HD
-http://185.74.5.38/live/eurosportHD.stream_720p/chunklist_w1263768496_DVR.m3u8
-#EXTINF:0,Кинопремьера HD
-http://185.74.5.38/live/kinopremeraHD.stream_720p/chunklist_w2003825090_DVR.m3u8
+https://185.74.5.38/live/eurosportHD.stream_720p/chunklist_w1263768496_DVR.m3u8
+#EXTINF:0,KINOPRIMIERA HD
+https://185.74.5.38/live/kinopremeraHD.stream_720p/chunklist_w2003825090_DVR.m3u8
 #EXTINF:0,Discovery Channel HD
-http://185.74.5.38/live/discoveryHD.stream_720p/chunklist_w1074320588_DVR.m3u8
+https://185.74.5.38/live/discoveryHD.stream_720p/chunklist_w1074320588_DVR.m3u8
 #EXTINF:0,National Geographic HD
-http://185.74.5.38/live/natgeoHD.stream_720p/chunklist_w2049619447_DVR.m3u8
+https://185.74.5.38/live/natgeoHD.stream_720p/chunklist_w2049619447_DVR.m3u8
 #EXTINF:0,Nat Geo Wild HD
-http://185.74.5.38/live/WildHd.stream_720p/chunklist_w1324931669_DVR.m3u8
+https://185.74.5.38/live/WildHd.stream_720p/chunklist_w1324931669_DVR.m3u8
+#EXTINF:0,Pervyj kanal_360
+https://185.74.4.193/live/ort.smil/chunklist_w1126007431_b1740000_DVR_sleng.m3u8
+#EXTINF:0,ROSSIA 1_360 
+https://185.74.4.193/live/abr_stream.smil/chunklist_w547292529_b1740000_DVR_sleng.m3u8
+#EXTINF:0,RTR_360
+https://185.74.5.25/live/rossiyartr.smil/chunklist_w703898507_b1740000_DVR_sleng.m3u8
+#EXTINF:0,ROSSIA 24_360
+https://185.74.4.193/live/r24.smil/chunklist_w1989548349_b1740000_DVR_sleng.m3u8
+#EXTINF:0,NTV_360
+https://185.74.4.193/live/ntv.smil/chunklist_w856196445_b1740000_DVR_sleng.m3u8
+#EXTINF:0,TV 3_360
+https://185.74.4.115/live/tv3.smil/chunklist_w1863291089_b1740000_DVR_sleng.m3u8
+#EXTINF:0,TVC_360
+https://185.74.4.149/live/tvc.smil/chunklist_w1014038541_b1740000_sleng.m3u8
+#EXTINF:0,ZVEZDA_360
+https://185.74.4.149/live/zvezda.smil/chunklist_w1438457163_b1740000_sleng.m3u8
+#EXTINF:0,KINOHIT_360
+https://185.74.5.24/live/kinohit.smil/chunklist_w1477381587_b1740000_DVR_sleng.m3u8
+#EXTINF:0,KINOPRIMIERA_360
+https://185.74.5.25/live/premera.smil/chunklist_w50193829_b1740000_sleng.m3u8
+#EXTINF:0,KINOPOKAZ_360
+https://185.74.5.24/live/kinopokaz.smil/chunklist_w1341336254_b1740000_DVR_sleng.m3u8
+#EXTINF:0,KINOSVIDANIE_360
+https://185.74.5.25/live/svidanie.smil/chunklist_w2006365750_b1740000_sleng.m3u8
+#EXTINF:0,RODNOE KINO_360
+https://185.74.4.193/live/nashekino.smil/chunklist_w566998689_b1740000_DVR_sleng.m3u8
+#EXTINF:0,NASHE KINO_360
+https://185.74.5.25/live/novoekino.smil/chunklist_w763793183_b1740000_sleng.m3u8
+#EXTINF:0,INDYA_360
+https://185.74.4.149/live/india.smil/chunklist_w747491158_b1740000_sleng.m3u8
+#EXTINF:0,TV 1000 russkoe kino_360
+https://185.74.4.115/live/tv1000ru.smil/chunklist_w1492339428_b1740000_DVR_sleng.m3u8
+#EXTINF:0,TV 1000_360
+https://185.74.4.115/live/tv1000.smil/chunklist_w1444998246_b1740000_DVR_sleng.m3u8
+#EXTINF:0,DOM KINO_360
+https://185.74.4.149/live/domkino.smil/chunklist_w1739767601_b1740000_sleng.m3u8
+#EXTINF:0,RETRO_360
+https://185.74.5.25/live/enc54.smil/chunklist_w125685434_b1740000_sleng.m3u8
+#EXTINF:0,TELEKAFE_360
+https://185.74.4.115/live/telecafe.smil/chunklist_w1588618561_b1740000_DVR_sleng.m3u8
+#EXTINF:0,DISCOVERY SCIENCE_360
+https://185.74.5.24/live/ds.smil/chunklist_w1952656583_b1740000_DVR_sleng.m3u8
+#EXTINF:0,DISCOVERY CHANNEL_360
+https://185.74.5.24/live/dc.smil/chunklist_w1101611443_b1740000_DVR_sleng.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC_360
+https://185.74.4.193/live/ng.smil/chunklist_w175855048_b1740000_DVR_sleng.m3u8
+#EXTINF:0,NAT GEO WILD_360
+https://185.74.4.193/live/ngw.smil/chunklist_w1105891165_b1740000_DVR_sleng.m3u8
+#EXTINF:0,ANIMAL PLANET_360
+https://185.74.4.149/live/animal.smil/chunklist_w344711701_b1740000_sleng.m3u8
+#EXTINF:0,VIASAT EXPLORE_360
+https://185.74.4.115/live/vs.smil/chunklist_w362697518_b1740000_DVR_sleng.m3u8
+#EXTINF:0,VIASAT HISTORY_360
+https://185.74.4.115/live/vh.smil/chunklist_w1756841652_b1740000_DVR_sleng.m3u8
+#EXTINF:0,OHOTA I RYBALKA_360
+https://185.74.4.193/live/ohota.smil/chunklist_w1295183785_b1740000_DVR_sleng.m3u8
+#EXTINF:0,KLUB PUTESHESTVENNIKOV_360
+https://185.74.4.193/live/klubput.smil/chunklist_w761004978_b1740000_DVR_sleng.m3u8
+#EXTINF:0,AVTO PLUS_360
+https://185.74.5.25/live/autoplus.smil/chunklist_w1822760473_b1740000_sleng.m3u8
+#EXTINF:0,24 TEHNO_360
+https://185.74.5.24/live/24texno.smil/chunklist_w1614365279_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MATCH TV_360
+https://185.74.4.115/live/matchtv.smil/chunklist_w1839114022_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MATCH ARENA_360
+https://185.74.5.24/live/arena.smil/chunklist_w724608125_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MATCH IGRA_360
+https://185.74.5.24/live/igra.smil/chunklist_w1282830888_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MATCH FUTBOL 1_360
+https://185.74.5.24/live/futbol1.smil/chunklist_w664268187_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MATCH FUTBOL 2_360
+https://185.74.4.115/live/futbol2.smil/chunklist_w269807311_b1740000_DVR_sleng.m3u8
+#EXTINF:0,EUROSPORT 1_360
+https://185.74.4.115/live/eurosport1.smil/chunklist_w922797146_b1740000_DVR_sleng.m3u8
+#EXTINF:0,EUROSPORT 2_360
+https://185.74.5.25/live/eurosport.smil/chunklist_w1968816535_b1740000_sleng.m3u8
+#EXTINF:0,EURONEWS_360
+https://185.74.4.115/live/svidanie.smil/chunklist_w1514476592_b1740000_DVR_sleng.m3u8
+#EXTINF:0,KULTURA_360
+https://185.74.5.25/live/rossiyartr.smil/chunklist_w703898507_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MUZIKA PERVOGO_360
+https://185.74.4.193/live/muzika.smil/chunklist_w1035736421_b1740000_DVR_sleng.m3u8
+#EXTINF:0,RU TV_360
+https://185.74.5.25/live/rutv.smil/chunklist_w649541947_b1740000_sleng.m3u8
+#EXTINF:0,MUZ TV_360
+https://185.74.4.149/live/muztv.smil/chunklist_w184591248_b1740000_sleng.m3u8
+#EXTINF:0,DISNEY_360
+https://185.74.5.24/live/disney.smil/chunklist_w202875933_b1740000_DVR_sleng.m3u8
+#EXTINF:0,DETSKIY MIR_360
+https://185.74.5.25/live/dmir.smil/chunklist_w1693849322_b1740000_sleng.m3u8
+#EXTINF:0,KARUSEL_360
+https://185.74.5.25/live/karusel.smil/chunklist_w718687744_b1740000_sleng.m3u8
+#EXTINF:0,Bolajon_360
+https://185.74.4.115/live/bolajon.smil/chunklist_w1957227604_b1740000_DVR_sleng.m3u8
+#EXTINF:0,O'ZBEKISTON_360
+https://185.74.4.149/live/abr_stream.smil/chunklist_w1678780367_b1740000_sleng.m3u8
+#EXTINF:0,YOSHLAR_360
+https://185.74.4.149/live/yoshlar.smil/chunklist_w1731405316_b1740000_sleng.m3u8
+#EXTINF:0,SPORT_uz_360
+https://185.74.4.149/live/sportuz.smil/chunklist_w468420974_b1740000_sleng.m3u8
+#EXTINF:0,NAVO_360
+https://185.74.4.149/live/navo.smil/chunklist_w968530381_b1740000_sleng.m3u8
+#EXTINF:0,DUNYO BO’YLAB_360
+https://185.74.4.149/live/dunyo.smil/chunklist_w1917423929_b1740000_sleng.m3u8
+#EXTINF:0,MADANIYAT VA MA’RIFAT_360
+https://185.74.4.149/live/manaviat.smil/chunklist_w1050533398_b1740000_sleng.m3u8
+#EXTINF:0,MAHALLA_360
+https://185.74.4.149/live/mahhalya.smil/chunklist_w1997979388_b1740000_DVR_sleng.m3u8
+#EXTINF:0,KINOTEATR_360
+https://185.74.4.149/live/kinoteatruz.smil/chunklist_w1776623629_b1740000_sleng.m3u8
+#EXTINF:0,OILAVIY_360
+https://185.74.4.149/live/oilavi.smil/chunklist_w877502072_b1740000_sleng.m3u8
+#EXTINF:0,O'ZBEKISTON 24_360
+https://185.74.5.24/live/diyor.smil/chunklist_w625028281_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MILLIY TV_360
+https://185.74.5.25/live/millitv.smil/chunklist_w1830658915_b1740000_sleng.m3u8
+#EXTINF:0,UZPEPORT_360
+https://185.74.4.115/live/uzreport.smil/chunklist_w1266110209_b1740000_DVR_sleng.m3u8
+#EXTINF:0,MY 5_360
+https://185.74.5.25/live/my5.smil/chunklist_w807189919_b1740000_sleng.m3u8
+#EXTINF:0,ZO'R TV_360
+https://185.74.5.25/live/ngrp:zortv.stream_all/chunklist_w1420441049_b936000_DVR.m3u8
+#EXTINF:0,SEVIMLI_360
+https://185.74.5.24/live/caravantv.smil/chunklist_w674948211_b1740000_DVR_sleng.m3u8
+#EXTINF:0,FUTBOL TV_360
+https://185.74.5.25/live/futboltv.smil/chunklist_w1117147777_b1740000_sleng.m3u8
+#EXTINF:0,Toshkent_360
+https://185.74.4.115/live/toshkent.smil/chunklist_w1691226550_b1740000_DVR_sleng.m3u8
+#EXTINF:0,Fashion TV_360
+https://185.74.4.115/live/fashiontv.smil/chunklist_w1990178355_b1740000_DVR_sleng.m3u8
