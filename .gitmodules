@@ -1,0 +1,6 @@
+[submodule "ps4jb2"]
+	path = ps4jb2
+	url = https://github.com/krugdenis/ps4jb2
+[submodule "ps4jb"]
+	path = ps4jb
+	url = https://github.com/krugdenis/ps4jb
